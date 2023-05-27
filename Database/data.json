@@ -1,0 +1,206 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": 2,
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi sheety",
+      "director": "Rprashant",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": "9.3",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy."
+    },
+    {
+      "id": 3,
+      "moviename": "RRR",
+      "hero": "NTR Ramcharan",
+      "heroine": "alia",
+      "director": "Rajmouli",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/GY4BgdUSpbE",
+      "release": "2021",
+      "rating": "8",
+      "synopsis": "RRR is a period drama set in India during the 1920s, revolving around the inspiring journey of two of India`s freedom fighters - Alluri Sitarama Raju and Komaram Bheem."
+    },
+    {
+      "id": 5,
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 6,
+      "moviename": "Yuvarathna",
+      "hero": "Punith rajkumar",
+      "heroine": "Priya anadh",
+      "director": "Santhosh anadhram",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Social",
+      "poster": "https://images.indianexpress.com/2021/04/Yuvarathnaa.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Yuvarathna is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 7,
+      "moviename": "Rajkumara",
+      "hero": "Punith rajkumar",
+      "heroine": "Priya anadh",
+      "director": "Santhosh anadhram",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Social",
+      "poster": "https://djtalkies.com/Image/movie/1_wide.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2016",
+      "rating": "9.5",
+      "synopsis": "Rajkumara is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 9,
+      "moviename": "Martin",
+      "hero": "Dhruva Sarja",
+      "heroine": "Rachitha",
+      "director": "Prem",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "action",
+      "poster": "https://i0.wp.com/www.newsbugz.com/wp-content/uploads/2021/08/Martin.jpg?resize=768%2C1110&ssl=1",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2019",
+      "rating": "9.6",
+      "synopsis": "Martin is a Action  film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 10,
+      "moviename": "Nata sarva bwuma",
+      "hero": "Punith rajkumar",
+      "heroine": "Rachitha",
+      "director": "Pavan",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance",
+      "poster": "https://th.bing.com/th/id/R.4a2e6510731a1193431b5ea6ca463b0d?rik=plEwp5TEdUfrjw&riu=http%3a%2f%2fcinimirror.com%2fwp-content%2fuploads%2f2019%2f01%2fIMG_20190104_235616.jpg&ehk=BtT845aoZKSkMqq8B6w59k7w3RZG2Dur5QRUTJ%2fZTTk%3d&risl=&pid=ImgRaw&r=0",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2015",
+      "rating": "9.1",
+      "synopsis": "Martin is a Action  film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 11,
+      "moviename": "Mufthi",
+      "hero": " Dr Shiva rajkumar , ugram murali",
+      "heroine": "Shanvi",
+      "director": "Narthan",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "action",
+      "poster": "https://th.bing.com/th/id/OIP.eFnr2xDrrpMkWVpPMAQ9ywHaE-?pid=ImgDet&rs=1",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2016",
+      "rating": "9.1",
+      "synopsis": "Martin is a Action  film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": 12,
+      "moviename": "Rajkumara",
+      "hero": "Punith rajkumar",
+      "heroine": "Priya anadh",
+      "director": "Santhosh anadhram",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Social",
+      "poster": "https://djtalkies.com/Image/movie/1_wide.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2016",
+      "rating": "9.5",
+      "synopsis": "Rajkumara is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "moviename": "Veera kanadiga",
+      "hero": "punith raj kumar",
+      "heroine": "unknown",
+      "director": "unkonown",
+      "genre": "action",
+      "poster": "https://macsendisk.com/wp-content/uploads/2022/07/Veera-Kannadiga-Kannada-Movie-DVD.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2004",
+      "rating": "7.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?",
+      "languages": [
+        "add selected langusages"
+      ],
+      "id": "_bpOJuq"
+    },
+    {
+      "moviename": "The Kerala Story",
+      "hero": "Pranay Pachauri",
+      "heroine": "Adah Sharma",
+      "director": "Sudipto Sen",
+      "genre": "drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/the-kerala-story-et00343918-1683025350.jpg",
+      "trailer": "https://www.youtube.com/embed/3Jk3vquJDGs",
+      "release": "2023",
+      "rating": "9.6",
+      "synopsis": "A spine-chilling, never told before true story - revealing a dangerous conspiracy that has been hatched against India. The Kerala Story is a compilation of the true stories of three young girls from different parts of Kerala.\n\nThe truth shall set us free! Thousands of innocent women have been systematically converted, radicalized & their lives destroyed. It`s their side of the story.",
+      "languages": [],
+      "id": 14
+    }
+  ]
+}

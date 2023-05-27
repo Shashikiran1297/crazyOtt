@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Shashikiran",
+      "lastName": "Kiran",
+      "email": "shashi383@gmail.com",
+      "Dob": "1997",
+      "password": "Shashi@123",
+      "confirmPassword": "Shashi@123"
+    },
+    {
+      "firstName": "Keerthan",
+      "lastName": "kerthi",
+      "email": "kerthi@gmail.com",
+      "Dob": "1998",
+      "password": "Shashi@123",
+      "confirmPassword": "Shashi@123",
+      "id": 2
+    }
+  ]
+}

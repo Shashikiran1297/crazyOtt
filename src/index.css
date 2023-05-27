@@ -1,0 +1,343 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto&family=Source+Code+Pro&display=swap');
+
+* {
+    padding: 0px;
+    margin: 0px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+     sans-serif;
+   -webkit-font-smoothing: antialiased;
+   -moz-osx-font-smoothing: grayscale;
+    box-sizing: content-box;
+}
+nav{
+  background-color: rgb(6, 6, 63);
+  height: 60px;
+  color: white;
+  padding: 20px 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0px;
+  z-index: 1000;
+}
+#logo h1{
+  font-family: 'Dancing Script', cursive;
+  letter-spacing: 4px;
+  word-spacing: 8px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+#search-bar input{
+    width: 400px;
+    height: 35px;
+    border: none;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+#search-bar button{
+   width: 80px;
+   height: 35px;
+   font-size: 15px;
+   margin-left: -80px;
+   border: none;
+   border-radius: 4px;
+}
+#search-bar button:hover{
+  border: 2px solid black;
+  background-color: antiquewhite;
+}
+#add-movie a{
+  color: white;
+  font-size: 18px;
+  padding: 18px;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: 0.2s linear;
+}
+  #add-movie a:hover{
+    background-color: white;
+    color: rgb(6, 6, 63);
+  }
+  .suggestionBox{
+    width: 200px;
+    height: auto;
+    background-color: aliceblue;
+    position: absolute;
+    left: 585px;
+    top: 75px;
+    color: #2d2d2d;
+    padding-left: 16px;
+    border-radius: 6px;
+  }
+  .suggestionBox ul li{
+    list-style: none;
+    background-color: aliceblue;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 3px;
+  }
+  .suggestionBox ul li:hover{
+    background-color: rgb(201, 203, 205) ;
+    cursor: pointer;
+  }
+  /* ----------------------------HOME STYLE-------------------------------------  */
+
+.home{
+  background-color: rgb(195,195,195);
+  padding: 20px 100px;
+}
+.all-movies{
+width: 80vw;
+height: auto;
+padding: 20px;
+border: 5px solid black;
+display: flex;
+justify-content: space-evenly;
+flex-wrap: wrap;
+row-gap: 20px;
+}
+.movie12{
+  width: 250px;
+  padding: 12px;
+  border: 1px solid #2d2d2d;
+}
+.movie12 img
+{
+  width: 100%;
+  height: 250px;
+  border-radius: 6px;
+} 
+#title{
+  color: aliceblue;
+  background-color: #2d2d2d;
+  text-align: center;
+  position: sticky;
+  top: 100px;
+  z-index: 20px;
+}
+/* -------------------------------------Add movie-------------------------- */
+.add_movies{
+  height: auto;
+  width: 700px;
+  background-color: darkseagreen;
+  text-align: center;
+  margin: 50px 50px 50px 500px;
+  border: 3px solid black;
+  border-radius: 20px;
+
+}
+#movie{
+  height: 40px;
+  width: 400px;
+  margin-top: 20px;
+  padding-left: 150px;
+  border-radius: 15px;
+}
+fieldset{
+  height: 60px;
+  width: 400px;
+  margin-left: 50px;
+  border-color: black;
+  color: 📟 ;
+  border-radius: 15px;
+  
+  
+}
+label{
+  margin: 5px;
+}
+  
+#image{
+  height: 40px;
+  width: 400px;
+  margin-top: 20px;
+  padding-left: 150px;
+  border-radius: 15px;
+}
+#vedio{
+  height: 40px;
+  width: 400px;
+  margin-top: 20px;
+  padding-left: 150px;
+  border-radius: 15px;
+}
+#date{
+  margin-top: 20px;
+  border-radius: 15px;
+
+}
+#rating{
+  margin-top: 20px;
+  width: 100px;
+  height: 40px;
+  padding-left: 40px;
+  border-radius: 15px;
+}
+#synopsis{
+  height: auto;
+  width: 400px;
+  margin-top: 20px;
+  border-radius: 15px;
+}
+#submit{
+  height: 40px;
+  width: 100px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+/* --------------------------------  SIGNUP  ----------------------------------- */
+.mainSignup{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.signup{
+  width: 600px;
+  height: 600px;
+  border-radius: 100px;
+  background-color: antiquewhite;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.subsignup{
+  margin-top: 30px;
+}
+.subsignup input{
+  width: 200px;
+  height: 22px;
+}
+.subsignup label{
+  font-size: 20px;
+  font-weight: bold;
+}
+.signup h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: rgb(127, 191, 255);
+}
+/* ---------------------------------------Heart---------------------------------------- */
+#add-btn{
+  color: red;
+  background-color: transparent;
+  border: none;
+  font-size: 20px;
+  animation: emptyHeart 0.5s;
+}
+#remove-btn{
+  color: white;
+  background-color: transparent ;
+  border: none;
+  font-size: 20px;
+  animation:filledHeart 0.5s;
+}
+@keyframes emptyHeart{
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.3);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+@keyframes filledHeart{
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.3);
+  }
+  100%{
+    transform: scale(1);
+  }
+}
+/* ----------------------------------------Responsive page style----------------------------------- */
+
+@media(max-width:1020px){
+  nav{
+    padding: 10px 50px;
+  }
+  #logo h1{
+    font-size: 20px; 
+  }
+  #search-bar{
+    width: 350px; 
+ }
+ #search-bar input{
+  width: 250px;
+  height: 35px;
+  font-size: 13px;
+}
+#search-bar button{
+  width: 60px;
+  height: 35px;
+  margin-left: -60px;
+  font-size: 13px;
+}
+#add-movie {
+  display: none;
+}
+#hamberger{
+  display: block;
+}
+#hamberger span{
+  font-size: 30px;
+  color:white;
+}
+#menu{
+  background-color: black;
+    width: 170px;
+    position: absolute;
+    top: 75px;
+    right: 50px;
+}
+#menu a{
+    display: block;
+    margin: 5px 10px;
+    color: white;
+    font-size: 15px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: 0.2s linear;
+}           
+#menu a:hover{
+     color: black;
+     background-color: white;
+  }
+}
+/* --------------------------------For Mobile Version---------------------------------- */
+@media (max-width:700px) 
+{
+  nav{
+    padding: 20px 40px;
+  }
+  #logo h1{
+    font-size: 20px;
+  }
+  #search-bar{
+    width: 250px;
+  }
+  #search-bar input{
+    width: 150px;
+    height: 35px;
+    font-size: 10px;
+  }
+  #search-bar button{
+    width: 40px;
+    height: 35px;
+    margin-left: -30px;
+    font-size: 10px;
+  } 
+}
