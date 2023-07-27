@@ -2,9 +2,8 @@ import { useRef } from "react";
 import { useNavigate } from "react-router-dom";
 
 const AddMovie = () => {
-
+    
     let navigate = useNavigate()
-
     let moviename = useRef();
     let hero = useRef();
     let heroine = useRef();
@@ -34,6 +33,7 @@ let  handleAddMovie=(e)=>{
     synopsis : synopsis.current.value,
     languages : []
   };
+  {console.log("hello");}
   let options=document.getElementByName("languages");
 
     for(let i = 0; i < options.length; i++) 
