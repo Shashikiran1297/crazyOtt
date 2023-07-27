@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crazyOtt/static/css/main.b163fa8d.css",
+    "main.js": "/crazyOtt/static/js/main.2c2533c2.js",
+    "index.html": "/crazyOtt/index.html",
+    "main.b163fa8d.css.map": "/crazyOtt/static/css/main.b163fa8d.css.map",
+    "main.2c2533c2.js.map": "/crazyOtt/static/js/main.2c2533c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b163fa8d.css",
+    "static/js/main.2c2533c2.js"
+  ]
+}
